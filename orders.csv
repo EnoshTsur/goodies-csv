@@ -1,0 +1,151 @@
+order_id,item_name,price,quantity,temperature_requirement,order_date
+ORD001,Matzo Ball Soup,12.99,2,hot,2024-11-01 12:30:00
+ORD002,Israeli Salad,11.99,1,cold,2024-11-01 12:31:15
+ORD003,Beef Brisket,28.99,3,hot,2024-11-01 12:45:22
+ORD004,Pareve Ice Cream,9.99,2,cold,2024-11-01 13:15:00
+ORD005,Chicken Schnitzel,21.99,4,hot,2024-11-01 13:20:45
+ORD006,Mediterranean Quinoa Salad,14.99,1,cold,2024-11-01 13:45:30
+ORD007,Shakshuka,18.99,2,hot,2024-11-01 14:00:00
+ORD008,Hummus Plate,12.99,1,cold,2024-11-01 14:15:20
+ORD009,Grilled Lamb Kebab,32.99,2,hot,2024-11-01 14:30:45
+ORD010,Tahini Vegetable Platter,19.99,1,cold,2024-11-01 15:00:00
+ORD011,Roasted Chicken,24.99,3,hot,2024-11-01 15:15:30
+ORD012,Fruit Salad,13.99,2,cold,2024-11-01 15:45:00
+ORD013,Cholent,21.99,1,hot,2024-11-01 16:00:15
+ORD014,Smoked Salmon Plate,26.99,2,cold,2024-11-01 16:30:45
+ORD015,Shawarma Plate,22.99,3,hot,2024-11-01 17:00:00
+ORD016,Tabbouleh,9.99,2,cold,2024-11-01 17:15:30
+ORD017,Beef Kebab,25.99,4,hot,2024-11-01 17:45:00
+ORD018,Baba Ganoush,11.99,1,cold,2024-11-01 18:00:15
+ORD019,Chicken Soup,14.99,2,hot,2024-11-01 18:30:45
+ORD020,Pickled Vegetable Plate,8.99,3,cold,2024-11-01 19:00:00
+ORD021,Roasted Turkey Breast,23.99,2,hot,2024-11-02 12:00:00
+ORD022,Couscous Salad,12.99,1,cold,2024-11-02 12:15:30
+ORD023,BBQ Beef Ribs,34.99,2,hot,2024-11-02 12:45:00
+ORD024,Marinated Olives,7.99,1,cold,2024-11-02 13:00:15
+ORD025,Stuffed Cabbage,19.99,3,hot,2024-11-02 13:30:45
+ORD026,Eggplant Salad,11.99,2,cold,2024-11-02 14:00:00
+ORD027,Grilled Chicken Wings,16.99,4,hot,2024-11-02 14:15:30
+ORD028,Fattoush Salad,13.99,2,cold,2024-11-02 14:45:00
+ORD029,Beef Stir Fry,24.99,3,hot,2024-11-02 15:00:15
+ORD030,Cucumber Tomato Salad,9.99,1,cold,2024-11-02 15:30:45
+ORD031,Duck Breast,36.99,2,hot,2024-11-02 16:00:00
+ORD032,Roasted Pepper Salad,10.99,4,cold,2024-11-02 16:15:30
+ORD033,Lamb Tagine,31.99,2,hot,2024-11-02 16:45:00
+ORD034,Moroccan Carrot Salad,11.99,1,cold,2024-11-02 17:00:15
+ORD035,Beef Goulash,26.99,3,hot,2024-11-02 17:30:45
+ORD036,Pareve Sushi Roll,15.99,1,cold,2024-11-02 18:00:00
+ORD037,Veal Scaloppini,35.99,2,hot,2024-11-02 18:15:30
+ORD038,Quinoa Tabbouleh,12.99,2,cold,2024-11-02 18:45:00
+ORD039,Prime Rib,45.99,1,hot,2024-11-02 19:00:15
+ORD040,Beetroot Salad,10.99,2,cold,2024-11-02 19:30:45
+ORD041,Chicken Tagine,25.99,3,hot,2024-11-03 12:00:00
+ORD042,Vegetable Crudité,14.99,1,cold,2024-11-03 12:15:30
+ORD043,Beef Kofta,21.99,2,hot,2024-11-03 12:45:00
+ORD044,Grilled Vegetable Platter,18.99,1,cold,2024-11-03 13:00:15
+ORD045,Roasted Cornish Hen,28.99,2,hot,2024-11-03 13:30:45
+ORD046,Israeli Pickles,6.99,4,cold,2024-11-03 14:00:00
+ORD047,Moroccan Fish,27.99,2,hot,2024-11-03 14:15:30
+ORD048,Mezze Platter,29.99,1,cold,2024-11-03 14:45:00
+ORD049,Beef Bourguignon,32.99,2,hot,2024-11-03 15:00:15
+ORD050,Pareve Chocolate Mousse,12.99,2,cold,2024-11-03 15:30:45
+ORD051,Gefilte Fish,16.99,2,cold,2024-11-03 16:00:00
+ORD052,Jerusalem Mixed Grill,29.99,1,hot,2024-11-03 16:15:30
+ORD053,Roasted Eggplant Dip,11.99,2,cold,2024-11-03 16:45:00
+ORD054,Lamb Chops,42.99,2,hot,2024-11-03 17:00:15
+ORD055,Citrus Herb Salad,13.99,1,cold,2024-11-03 17:30:45
+ORD056,Chicken Liver Pâté,18.99,1,cold,2024-11-03 18:00:00
+ORD057,Beef Short Ribs,38.99,2,hot,2024-11-03 18:15:30
+ORD058,Sweet Potato Salad,10.99,2,cold,2024-11-03 18:45:00
+ORD059,Turkish Coffee Cake,9.99,3,cold,2024-11-03 19:00:15
+ORD060,Grilled Sea Bass,34.99,1,hot,2024-11-04 12:00:00
+ORD061,Stuffed Grape Leaves,12.99,3,cold,2024-11-04 12:15:30
+ORD062,Chicken Couscous,24.99,2,hot,2024-11-04 12:45:00
+ORD063,Pareve Kugel,15.99,2,hot,2024-11-04 13:00:15
+ORD064,Watermelon Feta Salad,13.99,1,cold,2024-11-04 13:30:45
+ORD065,Grilled Veal Chop,39.99,1,hot,2024-11-04 14:00:00
+ORD066,Roasted Beet Hummus,11.99,2,cold,2024-11-04 14:15:30
+ORD067,Beef Cheek Stew,31.99,2,hot,2024-11-04 14:45:00
+ORD068,Chickpea Salad,10.99,2,cold,2024-11-04 15:00:15
+ORD069,Moroccan Chicken,26.99,3,hot,2024-11-04 15:30:45
+ORD070,Pareve Rugelach,8.99,4,cold,2024-11-04 16:00:00
+ORD071,Lamb Shoulder,36.99,2,hot,2024-11-04 16:15:30
+ORD072,Wild Rice Salad,12.99,1,cold,2024-11-04 16:45:00
+ORD073,Beef Tongue,28.99,1,hot,2024-11-04 17:00:15
+ORD074,Roasted Red Pepper Dip,9.99,2,cold,2024-11-04 17:30:45
+ORD075,Duck Confit,37.99,1,hot,2024-11-04 18:00:00
+ORD076,Herb Quinoa Salad,11.99,2,cold,2024-11-04 18:15:30
+ORD077,Chicken Shawarma,23.99,3,hot,2024-11-04 18:45:00
+ORD078,Sundried Tomato Spread,8.99,2,cold,2024-11-04 19:00:15
+ORD079,Beef Kabob Plate,29.99,2,hot,2024-11-05 12:00:00
+ORD080,Persian Rice Salad,13.99,1,cold,2024-11-05 12:15:30
+ORD081,Grilled Turkey Breast,25.99,2,hot,2024-11-05 12:45:00
+ORD082,Mediterranean Slaw,9.99,2,cold,2024-11-05 13:00:15
+ORD083,Lamb Shank,35.99,1,hot,2024-11-05 13:30:45
+ORD084,Pareve Chocolate Cake,11.99,2,cold,2024-11-05 14:00:00
+ORD085,Roasted Chicken Quarter,19.99,3,hot,2024-11-05 14:15:30
+ORD086,Apple Walnut Salad,12.99,1,cold,2024-11-05 14:45:00
+ORD087,Beef Tenderloin,44.99,1,hot,2024-11-05 15:00:15
+ORD088,Pareve Coleslaw,8.99,2,cold,2024-11-05 15:30:45
+ORD089,Veal Osso Buco,41.99,1,hot,2024-11-05 16:00:00
+ORD090,Lentil Tabbouleh,10.99,2,cold,2024-11-05 16:15:30
+ORD091,Grilled Chicken Breast,22.99,3,hot,2024-11-05 16:45:00
+ORD092,Marinated Mushrooms,11.99,2,cold,2024-11-05 17:00:15
+ORD093,Beef Curry,27.99,2,hot,2024-11-05 17:30:45
+ORD094,Green Bean Salad,9.99,2,cold,2024-11-05 18:00:00
+ORD095,Roasted Duck,38.99,1,hot,2024-11-05 18:15:30
+ORD096,Pareve Potato Salad,10.99,2,cold,2024-11-05 18:45:00
+ORD097,Lamb Moussaka,32.99,2,hot,2024-11-05 19:00:15
+ORD098,Spiced Carrot Salad,9.99,2,cold,2024-11-05 19:30:45
+ORD099,Chicken Kebab Plate,24.99,2,hot,2024-11-05 19:45:00
+ORD100,Stuffed Dates,7.99,3,cold,2024-11-05 20:00:00
+ORD101,Prime Beef Steak,46.99,1,hot,2024-11-06 12:00:00
+ORD102,Asian Cucumber Salad,10.99,2,cold,2024-11-06 12:15:30
+ORD103,Herb Roasted Turkey,28.99,2,hot,2024-11-06 12:30:00
+ORD104,Pareve Caesar Salad,12.99,1,cold,2024-11-06 12:45:00
+ORD105,Beef Flanken,33.99,2,hot,2024-11-06 13:00:15
+ORD106,Roasted Pepper Hummus,11.99,2,cold,2024-11-06 13:15:30
+ORD107,Grilled Chicken Thighs,21.99,3,hot,2024-11-06 13:30:45
+ORD108,Mediterranean Salad,13.99,1,cold,2024-11-06 13:45:00
+ORD109,Lamb Kebab Plate,34.99,2,hot,2024-11-06 14:00:15
+ORD110,Pareve Babka,10.99,2,cold,2024-11-06 14:15:30
+ORD111,Beef Shawarma Bowl,25.99,2,hot,2024-11-06 14:30:45
+ORD112,Roasted Vegetable Mix,12.99,2,cold,2024-11-06 14:45:00
+ORD113,Turkey Schnitzel,23.99,3,hot,2024-11-06 15:00:15
+ORD114,Olive Medley,8.99,2,cold,2024-11-06 15:15:30
+ORD115,Grilled Salmon Fillet,32.99,2,hot,2024-11-06 15:30:45
+ORD116,Fattoush,11.99,1,cold,2024-11-06 15:45:00
+ORD117,Chicken Marsala,26.99,2,hot,2024-11-06 16:00:15
+ORD118,Pickled Vegetable Mix,9.99,2,cold,2024-11-06 16:15:30
+ORD119,Beef Stew,28.99,2,hot,2024-11-06 16:30:45
+ORD120,Fresh Fruit Plate,13.99,1,cold,2024-11-06 16:45:00
+ORD121,Veal Meatballs,24.99,3,hot,2024-11-06 17:00:15
+ORD122,Quinoa Pilaf,11.99,2,cold,2024-11-06 17:15:30
+ORD123,Duck Breast with Sauce,39.99,1,hot,2024-11-06 17:30:45
+ORD124,Garden Fresh Salad,10.99,2,cold,2024-11-06 17:45:00
+ORD125,Lamb Biryani,31.99,2,hot,2024-11-06 18:00:15
+ORD126,Pareve Baklava,9.99,3,cold,2024-11-06 18:15:30
+ORD127,Roasted Game Hen,29.99,1,hot,2024-11-06 18:30:45
+ORD128,Israeli Chopped Salad,11.99,2,cold,2024-11-06 18:45:00
+ORD129,Beef Kebab Platter,32.99,2,hot,2024-11-06 19:00:15
+ORD130,Pareve Rice Pudding,8.99,2,cold,2024-11-06 19:15:30
+ORD131,Chicken Piccata,25.99,2,hot,2024-11-06 19:30:45
+ORD132,Summer Bean Salad,10.99,1,cold,2024-11-06 19:45:00
+ORD133,Lamb Curry,33.99,2,hot,2024-11-06 20:00:15
+ORD134,Pareve Halvah,7.99,3,cold,2024-11-06 20:15:30
+ORD135,Grilled Steak Tips,34.99,2,hot,2024-11-06 20:30:45
+ORD136,Moroccan Beet Salad,11.99,2,cold,2024-11-06 20:45:00
+ORD137,Roasted Turkey Legs,26.99,2,hot,2024-11-06 21:00:15
+ORD138,Citrus Fennel Salad,12.99,1,cold,2024-11-06 21:15:30
+ORD139,Fish Tagine,29.99,2,hot,2024-11-06 21:30:45
+ORD140,Pareve Fruit Compote,9.99,2,cold,2024-11-06 21:45:00
+ORD141,Beef Kibbeh,27.99,2,hot,2024-11-06 22:00:15
+ORD142,Chickpea Cucumber Salad,10.99,2,cold,2024-11-06 22:15:30
+ORD143,Grilled Chicken Kabob,23.99,3,hot,2024-11-06 22:30:45
+ORD144,Stuffed Vine Leaves,12.99,2,cold,2024-11-06 22:45:00
+ORD145,Veal Piccata,35.99,1,hot,2024-11-06 23:00:15
+ORD146,Pareve Fruit Sorbet,8.99,2,cold,2024-11-06 23:15:30
+ORD147,Duck Confit Salad,36.99,1,hot,2024-11-06 23:30:45
+ORD148,Mediterranean Platter,29.99,2,cold,2024-11-06 23:45:00
+ORD149,Prime Rib Roast,48.99,1,hot,2024-11-07 00:00:15
+ORD150,Pareve Apple Strudel,10.99,2,cold,2024-11-07 00:15:30
